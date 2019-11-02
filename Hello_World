@@ -1,3 +1,9 @@
+/*********
+Autor: Víctor Mazón
+Fecha: 2/nov/2019
+Objetivo: El programa básico en c++
+*******/
+
 <stdio.h>  //Se incluye una libreria, en este caso la Standard Input Output
 
 int main(){               // Se declara una función principal, esta función se ejecutará cuando se ejecute el programa
