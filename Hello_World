@@ -1,0 +1,6 @@
+<stdio.h>  //Se incluye una libreria, en este caso la Standard Input Output
+
+int main(){               // Se declara una función principal, esta función se ejecutará cuando se ejecute el programa
+  printf("Hello World");  // Se hace una impresión a pantalla
+  return 0;               // Se regresa un valor, el cual debe ser congruente con el tipo de función que se esta realizando
+}
